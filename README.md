@@ -53,13 +53,13 @@ mencionan aplicaciones en procesamiento de voz.
 
 ##### Semana 3 — Parte B: Representación vectorial
 
-###### Viernes · 4 hrs — Representaciones clásicas
+##### Viernes · 4 hrs — Representaciones clásicas
     1. Bag of Words (BoW): construcción y limitaciones
     2. TF-IDF: cálculo e interpretación
     3. Visualización de matrices de términos
     4. Librerías: `scikit-learn`, `pandas`, `numpy`
 
-###### Sábado · 4 hrs — Word Embeddings
+##### Sábado · 4 hrs — Word Embeddings
     1. Word2Vec: CBOW vs Skip-gram
     2. GloVe y FastText: diferencias prácticas
     3. Sentence embeddings (`sentence-transformers`)
@@ -85,7 +85,7 @@ mencionan aplicaciones en procesamiento de voz.
 
 ##### Semana 5    
 
-### Viernes · 4 hrs — Arquitectura Transformer
+##### Viernes · 4 hrs — Arquitectura Transformer
     1. Mecanismo de atención (Self-Attention)
     2. Encoders y Decoders
     3. BERT y RoBERTa: modelos pre-entrenados
